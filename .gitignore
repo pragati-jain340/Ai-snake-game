@@ -1,0 +1,9 @@
+# Ignore these
+*.exe
+*.pyc
+__pycache__/
+.vscode/
+
+# Track these
+!*.py
+!*.wav
